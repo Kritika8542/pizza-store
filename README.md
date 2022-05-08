@@ -9,7 +9,7 @@ Customize the Pizza
 # add more details here
 # Changes made by 2021MT93200@wilp.bits-pilani.ac.in
 Making changes to the order
-Cancel the order
+Cancel  order
 Expected Delivery Time
 
 
