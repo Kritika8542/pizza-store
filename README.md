@@ -3,7 +3,7 @@ springboot REST based pizza store application
 
 # Changes made by 2021MT93200@wilp.bits-pilani.ac.in
 View the available pizzas
-Ability to order the Pizzas
+Ability to order  Pizzas
 Customize the Pizza
 
 # add more details here
